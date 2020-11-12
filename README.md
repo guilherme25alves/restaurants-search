@@ -1,5 +1,9 @@
 # React Find Restaurant Application 
 
+### Description
+
+Find restaurants near you with Restaurants Find, an application in React.js that uses the Google Maps API so you can discover new places near you!
+
 ### Technologies and Concepts 
 - React.Js
 - Styled Components
