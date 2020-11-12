@@ -1,8 +1,16 @@
 # React Find Restaurant Application 
 
+### Technologies and Concepts 
+- React.Js
+- Styled Components
+- Google Maps API 
+- Google Places API
+- Skeleton Concept
+- Flex layout 
+
 ### Demo Web page
 
-![demonstration web page](https://github.com/guilherme25alves/restaurants-search/blob/master/src/assets/images/demo.png?raw=true)
+![demonstration web page](https://github.com/guilherme25alves/restaurants-search/blob/master/src/assets/demo.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
