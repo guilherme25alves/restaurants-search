@@ -1,3 +1,5 @@
+// Forma de passar um tema para toda a aplicação centralizada em um único arquivo que toda a aplicação pode consumir
+
 const theme = {
   colors: {
     primary: '#6200ee',
