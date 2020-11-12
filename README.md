@@ -1,3 +1,9 @@
+# React Find Restaurant Application 
+
+### Demo Web page
+
+![demonstration web page](https://github.com/guilherme25alves/restaurants-search/blob/master/src/assets/images/demo.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

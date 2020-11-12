@@ -34,3 +34,7 @@ export const Dialog = styled.div`
   border-radius: 8px;
 `;
 Dialog.displayName = 'Dialog';
+
+
+
+//backdrop-filter => Propriedade que vai gerar um efeito de desfoque 
